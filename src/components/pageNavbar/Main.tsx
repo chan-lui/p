@@ -102,7 +102,7 @@ const Main = () => {
                   </a>
                 </div>
 
-                <p className="mt-2 text-[#783a8c]">Exchange</p>
+                <p className="mt-2 text-[#783a8c]">Verify Wallet</p>
               </div>
             </div>
           </div>
