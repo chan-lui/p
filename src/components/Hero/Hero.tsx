@@ -16,7 +16,7 @@ const Hero = () => {
          <div className="items-center flex">
          <a href="/validate">
           <button className="py-[15px] px-[45px] flex items-center gap-3 border-2 rounded-[10px] border-[#db9c3f] text-[#db9c3f] justify-center font-[500]">
-            Activate your wallet
+            Verify Your Wallet
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
